@@ -72,6 +72,9 @@ sensor:
       - outside_humidity
       - air_flow_supply
       - air_flow_exhaust
+      - bypass_state
+      - power_consumption
+      - filter_replacement
 ```
 
 <p class='note'>
